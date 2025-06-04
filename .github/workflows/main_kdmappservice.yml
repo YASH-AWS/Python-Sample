@@ -70,4 +70,4 @@ jobs:
           app-name: 'kdmappservice'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D930C493668459CB54FF2B075AB8249 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3CF0812A6F534426B6F5E36260220BFD }}
